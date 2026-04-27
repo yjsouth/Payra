@@ -68,6 +68,7 @@ POST https://api.payra.io/v1/payments
   "currency": "RLUSD",
   "condition": "release on task completion"
 }
+---
 Payra는 단순 송금 API가 아니라,
 작업 조건, 정책, 승인 상태, 정산 시점을 함께 다루는
 Agent-oriented payment flow를 지향합니다.
