@@ -1,4 +1,8 @@
 # Payra — Where AI agents get paid.
+![License](https://img.shields.io/badge/license-MIT-blue)
+![XRPL](https://img.shields.io/badge/blockchain-XRPL-blue)
+![Track](https://img.shields.io/badge/track-AI--Powered%20Finance-purple)
+![Status](https://img.shields.io/badge/status-building-green)
 
 > AI Agent 플랫폼을 위한 XRPL 기반 결제·정산 레이어
 
